@@ -1,0 +1,9 @@
+T01,Aaliyah Khan,aaliyah.khan@email.com,0123457890,Form 5,Bahasa Malaysia
+T02,Ben Tan,ben.tan@email.com,01122334455,Form 5,English
+T03,Chloe Lim,chloe.lim@email.com,01344455566,Form 5,History
+T04,Daniel Wong,dw@gmail.com,01455566677,Form 5,Additional Mathematics
+T05,Emily Siva,emily.siva@email.com,01566677788,Form 5,Physics
+T06,Farid Hassan,farid.hassan@email.com,01677788899,Form 5,Chemistry
+T07,Grace Lee,grace.lee@email.com,01788899900,Form 4,Science
+T08,Haris Muthu,haris.muthu@email.com,01899900011,Form 4,Accounting
+T09,Iman Abdullah,iman.abdullah@email.com,01900011122,Form 4,Moral

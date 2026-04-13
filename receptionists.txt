@@ -1,0 +1,5 @@
+R01,mordecaiB,mordecai.bluejay@parks.com,0123456789
+R02,rigbyR,rigby.raccoon@parks.com,01122334455
+R03,skipsY,skips.yeti@parks.com,01344455566
+R04,bensonD,benson.dunwoody@parks.com,01455566677
+R05,muscleM,muscleman@parks.com,01566677788

@@ -1,0 +1,9 @@
+BM5,Bahasa Malaysia,Form 5,RM100,Tuesday (9:30 AM - 11:30 AM),Aaliyah Khan
+E5,English,Form 5,RM100,Wednesday (2:00 PM - 4:00 PM),Ben Tan
+H5,History,Form 5,RM100,Thursday (10:00 AM - 12:00 PM),Chloe Lim
+AM5,Additional Mathematics,Form 5,RM100,Monday (4:30 PM - 6:30 PM),Daniel Wong
+P5,Physics,Form 5,RM100,Friday (8:00 AM - 10:00 AM),Emily Siva
+C5,Chemistry,Form 5,RM100,Wednesday (10:00 AM - 12:00 PM),Farid Hassan
+S4,Science,Form 4,RM100,Tuesday (1:00 PM - 3:00 PM),Grace Lee
+A4,Accounting,Form 4,RM100,Thursday (2:30 PM - 4:30 PM),Haris Muthu
+MOR4,Moral,Form 4,RM100,Monday (2:00 PM - 4:00 PM),Iman Abdullah

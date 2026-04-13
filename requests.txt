@@ -1,0 +1,5 @@
+S01,Request to change BM5 to E5,pending
+S03,Request for fee waiver,rejected
+S02,Request to add H5 subject,pending
+S05,Appeal for exam reschedule for P5,pending
+S04,Request to drop AM5 subject,complete

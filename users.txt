@@ -1,0 +1,20 @@
+admin,1234,admin
+BruceBanner,BruceBanner0000,student
+Stark,Stark0000,student
+Rogers,Rogers0000,student
+Romanoff,Romanoff0000,student
+Wayne,Wayne0000,student
+mordecaiB,mordecaiB0000,receptionist
+rigbyR,rigbyR0000,receptionist
+skipsY,skipsY0000,receptionist
+bensonD,bensonD0000,receptionist
+muscleM,muscleM0000,receptionist
+Aaliyah Khan,AaliyahKhan0000,tutor
+Ben Tan,BenTan0000,tutor
+Chloe Lim,ChloeLim0000,tutor
+Daniel Wong,DanielWong0000,tutor
+Emily Siva,EmilySiva0000,tutor
+Farid Hassan,FaridHassan0000,tutor
+Grace Lee,GraceLee0000,tutor
+Haris Muthu,HarisMuthu0000,tutor
+Iman Abdullah,ImanAbdullah0000,tutor
